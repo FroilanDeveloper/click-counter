@@ -1,0 +1,19 @@
+/* Style for the button */
+button {
+  border-radius: 5px; /* Rounded edges on the button */
+  padding: 10px 20px; /* Padding around the text */
+  background-color: #1e90ff; /* Blue background color */
+  color: white; /* White text color */
+  font-weight: bold; /* Bold text */
+  cursor: pointer; /* Change cursor to hand on hover */
+}
+
+/* Style for the button when hovered */
+button:hover {
+  background-color: #00008b; /* Darker blue background color on hover */
+}
+
+/* Style for the counter value */
+p {
+  font-weight: bold; /* Bold text */
+}
