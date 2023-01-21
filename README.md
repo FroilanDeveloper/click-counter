@@ -17,5 +17,5 @@ Created a simple counter.
 ● This component can be used in a React application
 
 
-<video src"https://user-images.githubusercontent.com/104409753/213861018-1e0f9c47-2e63-4d6c-821d-9b33fb33cd4f.mp4" autoplay loop muted></video>
+<img src"https://user-images.githubusercontent.com/104409753/213861018-1e0f9c47-2e63-4d6c-821d-9b33fb33cd4f.mp4" autoplay loop muted>
 
